@@ -1,0 +1,19 @@
+{
+  "name": "ts-app",
+  "author": "Felipe Chang <felipechang@hardcake.org>",
+  "version": "1.0.0",
+  "description": "Sample express + neo4j app",
+  "main": "./app/index.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "compression": "^1.7.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "neo4j-driver": "^1.6.2"
+  },
+  "devDependencies": {
+    "@types/node": "^10.5.3",
+    "tslint": "^5.11.0",
+    "typescript": "^2.9.2"
+  }
+}
